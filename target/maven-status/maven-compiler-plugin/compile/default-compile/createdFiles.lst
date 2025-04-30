@@ -1,2 +1,3 @@
 com\example\ai\AiShayariPoemApplication.class
+com\example\ai\controller\AiController$Response.class
 com\example\ai\controller\AiController.class
